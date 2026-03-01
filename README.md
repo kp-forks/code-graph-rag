@@ -27,6 +27,12 @@
   <a href="https://code-graph-rag.com">
     <img src="https://img.shields.io/badge/Enterprise-Support%20%26%20Services-6366f1" alt="Enterprise Support" />
   </a>
+  <a href="https://pypi.org/project/code-graph-rag/">
+    <img src="https://img.shields.io/pypi/dm/code-graph-rag" alt="PyPI Downloads" />
+  </a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/vitali87/code-graph-rag">
+    <img src="https://api.scorecard.dev/projects/github.com/vitali87/code-graph-rag/badge" alt="OpenSSF Scorecard" />
+  </a>
 </p>
 </div>
 
