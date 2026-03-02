@@ -155,6 +155,9 @@ docs = [
     "mkdocs-material>=9.7.3",
     "mkdocs-minify-plugin>=0.8.0",
 ]
+fuzz = [
+    "atheris>=2.3.0",
+]
 
 [tool.bandit]
 exclude_dirs = ["codebase_rag/tests", "scripts"]
